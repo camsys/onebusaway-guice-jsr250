@@ -27,9 +27,9 @@
   </repositories>
 
   <scm>
-    <connection>scm:git:http://github.com/OneBusAway/onebusaway-guice-jsr250.git</connection>
-    <developerConnection>scm:git:ssh://git@github.com/OneBusAway/onebusaway-guice-jsr250.git</developerConnection>
-    <url>http://github.com/OneBusAway/onebusaway-guice-jsr250</url>
+    <connection>scm:git:http://github.com/camsys/onebusaway-guice-jsr250.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com/camsys/onebusaway-guice-jsr250.git</developerConnection>
+    <url>http://github.com/camsys/onebusaway-guice-jsr250</url>
   </scm>
 
   <issueManagement>
